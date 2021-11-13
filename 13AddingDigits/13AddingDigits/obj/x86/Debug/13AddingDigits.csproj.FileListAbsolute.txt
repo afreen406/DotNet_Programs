@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2010\Projects\13AddingDigits\13AddingDigits\bin\Debug\13AddingDigits.exe
+c:\users\dell\documents\visual studio 2010\Projects\13AddingDigits\13AddingDigits\bin\Debug\13AddingDigits.pdb
+c:\users\dell\documents\visual studio 2010\Projects\13AddingDigits\13AddingDigits\obj\x86\Debug\13AddingDigits.exe
+c:\users\dell\documents\visual studio 2010\Projects\13AddingDigits\13AddingDigits\obj\x86\Debug\13AddingDigits.pdb
