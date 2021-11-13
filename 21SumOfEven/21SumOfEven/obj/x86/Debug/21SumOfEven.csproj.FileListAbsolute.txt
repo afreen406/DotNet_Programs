@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2010\Projects\21SumOfEven\21SumOfEven\bin\Debug\21SumOfEven.exe
+c:\users\dell\documents\visual studio 2010\Projects\21SumOfEven\21SumOfEven\bin\Debug\21SumOfEven.pdb
+c:\users\dell\documents\visual studio 2010\Projects\21SumOfEven\21SumOfEven\obj\x86\Debug\21SumOfEven.exe
+c:\users\dell\documents\visual studio 2010\Projects\21SumOfEven\21SumOfEven\obj\x86\Debug\21SumOfEven.pdb
