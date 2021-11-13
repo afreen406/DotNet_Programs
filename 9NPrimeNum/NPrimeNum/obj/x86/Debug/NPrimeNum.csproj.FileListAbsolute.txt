@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2010\Projects\NPrimeNum\NPrimeNum\bin\Debug\NPrimeNum.exe
+c:\users\dell\documents\visual studio 2010\Projects\NPrimeNum\NPrimeNum\bin\Debug\NPrimeNum.pdb
+c:\users\dell\documents\visual studio 2010\Projects\NPrimeNum\NPrimeNum\obj\x86\Debug\NPrimeNum.exe
+c:\users\dell\documents\visual studio 2010\Projects\NPrimeNum\NPrimeNum\obj\x86\Debug\NPrimeNum.pdb
