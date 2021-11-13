@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2010\Projects\22Lcm_Gcd\22Lcm_Gcd\bin\Debug\22Lcm_Gcd.exe
+c:\users\dell\documents\visual studio 2010\Projects\22Lcm_Gcd\22Lcm_Gcd\bin\Debug\22Lcm_Gcd.pdb
+c:\users\dell\documents\visual studio 2010\Projects\22Lcm_Gcd\22Lcm_Gcd\obj\x86\Debug\22Lcm_Gcd.exe
+c:\users\dell\documents\visual studio 2010\Projects\22Lcm_Gcd\22Lcm_Gcd\obj\x86\Debug\22Lcm_Gcd.pdb
