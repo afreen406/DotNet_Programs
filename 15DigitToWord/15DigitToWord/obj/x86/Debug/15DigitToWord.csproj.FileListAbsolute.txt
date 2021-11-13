@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2010\Projects\15DigitToWord\15DigitToWord\bin\Debug\15DigitToWord.exe
+c:\users\dell\documents\visual studio 2010\Projects\15DigitToWord\15DigitToWord\bin\Debug\15DigitToWord.pdb
+c:\users\dell\documents\visual studio 2010\Projects\15DigitToWord\15DigitToWord\obj\x86\Debug\15DigitToWord.exe
+c:\users\dell\documents\visual studio 2010\Projects\15DigitToWord\15DigitToWord\obj\x86\Debug\15DigitToWord.pdb
