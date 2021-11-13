@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2010\Projects\10Palindrome\10Palindrome\bin\Debug\10Palindrome.exe
+c:\users\dell\documents\visual studio 2010\Projects\10Palindrome\10Palindrome\bin\Debug\10Palindrome.pdb
+c:\users\dell\documents\visual studio 2010\Projects\10Palindrome\10Palindrome\obj\x86\Debug\10Palindrome.exe
+c:\users\dell\documents\visual studio 2010\Projects\10Palindrome\10Palindrome\obj\x86\Debug\10Palindrome.pdb
