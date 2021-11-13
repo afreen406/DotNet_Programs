@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2010\Projects\23Probability\23Probability\bin\Debug\23Probability.exe
+c:\users\dell\documents\visual studio 2010\Projects\23Probability\23Probability\bin\Debug\23Probability.pdb
+c:\users\dell\documents\visual studio 2010\Projects\23Probability\23Probability\obj\x86\Debug\23Probability.exe
+c:\users\dell\documents\visual studio 2010\Projects\23Probability\23Probability\obj\x86\Debug\23Probability.pdb
