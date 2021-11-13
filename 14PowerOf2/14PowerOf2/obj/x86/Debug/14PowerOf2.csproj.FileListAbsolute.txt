@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2010\Projects\14PowerOf2\14PowerOf2\bin\Debug\14PowerOf2.exe
+c:\users\dell\documents\visual studio 2010\Projects\14PowerOf2\14PowerOf2\bin\Debug\14PowerOf2.pdb
+c:\users\dell\documents\visual studio 2010\Projects\14PowerOf2\14PowerOf2\obj\x86\Debug\14PowerOf2.exe
+c:\users\dell\documents\visual studio 2010\Projects\14PowerOf2\14PowerOf2\obj\x86\Debug\14PowerOf2.pdb
