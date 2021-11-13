@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2010\Projects\10BinaryOnes\10BinaryOnes\bin\Debug\10BinaryOnes.exe
+c:\users\dell\documents\visual studio 2010\Projects\10BinaryOnes\10BinaryOnes\bin\Debug\10BinaryOnes.pdb
+c:\users\dell\documents\visual studio 2010\Projects\10BinaryOnes\10BinaryOnes\obj\x86\Debug\10BinaryOnes.exe
+c:\users\dell\documents\visual studio 2010\Projects\10BinaryOnes\10BinaryOnes\obj\x86\Debug\10BinaryOnes.pdb
