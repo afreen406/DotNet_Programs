@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2010\Projects\Sum\Sum\bin\Debug\Sum.exe
+c:\users\dell\documents\visual studio 2010\Projects\Sum\Sum\bin\Debug\Sum.pdb
+c:\users\dell\documents\visual studio 2010\Projects\Sum\Sum\obj\x86\Debug\Sum.exe
+c:\users\dell\documents\visual studio 2010\Projects\Sum\Sum\obj\x86\Debug\Sum.pdb
+C:\Users\dell\Documents\Visual Studio 2010\Projects\2Sum\Sum\obj\x86\Debug\Sum.exe
+C:\Users\dell\Documents\Visual Studio 2010\Projects\2Sum\Sum\obj\x86\Debug\Sum.pdb
