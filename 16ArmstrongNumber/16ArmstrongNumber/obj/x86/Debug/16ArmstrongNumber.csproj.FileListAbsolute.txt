@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2010\Projects\16ArmstrongNumber\16ArmstrongNumber\bin\Debug\16ArmstrongNumber.exe
+c:\users\dell\documents\visual studio 2010\Projects\16ArmstrongNumber\16ArmstrongNumber\bin\Debug\16ArmstrongNumber.pdb
+c:\users\dell\documents\visual studio 2010\Projects\16ArmstrongNumber\16ArmstrongNumber\obj\x86\Debug\16ArmstrongNumber.exe
+c:\users\dell\documents\visual studio 2010\Projects\16ArmstrongNumber\16ArmstrongNumber\obj\x86\Debug\16ArmstrongNumber.pdb
