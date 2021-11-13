@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2010\Projects\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe
+c:\users\dell\documents\visual studio 2010\Projects\EvenOdd\EvenOdd\bin\Debug\EvenOdd.pdb
+c:\users\dell\documents\visual studio 2010\Projects\EvenOdd\EvenOdd\obj\x86\Debug\EvenOdd.exe
+c:\users\dell\documents\visual studio 2010\Projects\EvenOdd\EvenOdd\obj\x86\Debug\EvenOdd.pdb
